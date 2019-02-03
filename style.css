@@ -1,0 +1,43 @@
+*{
+	padding: 0;
+	margin: 0;
+
+	
+}
+
+.BackImage{
+	
+	width: 100%;
+	height: 100%;
+	background-image: url('background.jpg');
+	/*background-color: #909090*/
+	background-size: cover;
+	/*display: flex;*/
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	color: #ffffff;
+}
+
+
+.ProfileHF{
+	background-color: rgba(0,0,0,0.7);
+	padding: 27px;
+	margin: 20px;
+}
+
+
+.Profile{
+	
+	background-color: rgba(0,0,0,0.3);
+	padding: 27px;
+	margin: 20px;
+}
+
+
+
+
+img{
+	width: 200px;
+	border-radius: 20%;
+}
